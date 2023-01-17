@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "E:/html class"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "t.html"
+	}
+}
